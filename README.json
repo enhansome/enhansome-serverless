@@ -1,0 +1,1031 @@
+{
+  "items": [
+    {
+      "description": "Quora: What is Serverless Computing?",
+      "items": [],
+      "title": "What is \"serverless\" computing?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parse Server",
+          "description": "Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the GitHub repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T03:08:14Z",
+            "owner": "parse-community",
+            "repo": "parse-server",
+            "stars": 21411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klotho",
+          "description": "Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-21T22:56:03Z",
+            "owner": "klothoplatform",
+            "repo": "klotho",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substation",
+          "description": "Substation is a cloud native data pipeline and transformation toolkit written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-20T18:53:05Z",
+            "owner": "brexhq",
+            "repo": "substation",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperAgency",
+          "description": "Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:12:41Z",
+            "owner": "vuics",
+            "repo": "h9y",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "All in one solutions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tau",
+          "description": "Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T23:36:59Z",
+            "owner": "taubyte",
+            "repo": "tau",
+            "stars": 5110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFaaS Cloud",
+          "description": "OpenFaaS Cloud: multi-user serverless functions driven by git.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-03-10T10:29:17Z",
+            "owner": "openfaas",
+            "repo": "openfaas-cloud",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effe",
+          "description": "a simple Open Source building block to emulate AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-05-05T09:36:54Z",
+            "owner": "siscia",
+            "repo": "effe",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Hosting and code execution in the cloud"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zappa",
+          "description": "Serverless Python WSGI with AWS Lambda + API Gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-23T13:59:31Z",
+            "owner": "Miserlou",
+            "repo": "Zappa",
+            "stars": 11823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chalice",
+          "description": "Python serverless microframework from Amazon for AWS lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:00Z",
+            "owner": "aws",
+            "repo": "chalice",
+            "stars": 11065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM Local",
+          "description": "Is the AWS CLI tool for managing Serverless applications written with AWS Serverless Application Model (SAM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:58:54Z",
+            "owner": "aws",
+            "repo": "aws-sam-cli",
+            "stars": 6728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClaudiaJS",
+          "description": "Deploy Node.js microservices to AWS easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-03T07:02:09Z",
+            "owner": "claudiajs",
+            "repo": "claudia",
+            "stars": 3885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IronFunctions",
+          "description": "The Serverless Microservices platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-15T01:37:58Z",
+            "owner": "iron-io",
+            "repo": "functions",
+            "stars": 3215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gordon",
+          "description": "λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-11T19:16:43Z",
+            "owner": "jorgebastida",
+            "repo": "gordon",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python-λ",
+          "description": "A toolkit for developing and deploying serverless Python code in AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-28T11:38:10Z",
+            "owner": "nficano",
+            "repo": "python-lambda",
+            "stars": 1515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda API",
+          "description": "Lightweight web framework for your serverless applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T17:08:11Z",
+            "owner": "jeremydaly",
+            "repo": "lambda-api",
+            "stars": 1468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Cloud Function",
+          "description": "Java framework for doing Functions using Spring ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T08:19:43Z",
+            "owner": "spring-cloud",
+            "repo": "spring-cloud-function",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kappa",
+          "description": "a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-23T23:15:00Z",
+            "owner": "garnaat",
+            "repo": "kappa",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless.tf",
+          "description": "A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform (read more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-19T14:56:19Z",
+            "owner": "antonbabenko",
+            "repo": "serverless.tf",
+            "stars": 879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambdoku",
+          "description": "Heroku-like experience when using AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-29T16:02:37Z",
+            "owner": "kubek2k",
+            "repo": "lambdoku",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEEP",
+          "description": "Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-21T07:00:37Z",
+            "owner": "MitocGroup",
+            "repo": "deep-framework",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fission Workflows",
+          "description": "Fast workflow-based function composition for serverless functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-30T20:18:26Z",
+            "owner": "fission",
+            "repo": "fission-workflows",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shep",
+          "description": "A framework for building APIs using AWS API Gateway and Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-21T09:05:17Z",
+            "owner": "bustle",
+            "repo": "shep",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aegis",
+          "description": "A Golang serverless application development framework for AWS with deploy tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-07-28T18:09:26Z",
+            "owner": "tmaiaroto",
+            "repo": "aegis",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambada Framework",
+          "description": "JAX-RS implementation for AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-03-29T09:02:17Z",
+            "owner": "cagataygurturk",
+            "repo": "lambadaframework",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Functions",
+          "description": "A lightweight serverless platform that uses Web Browsers as execution engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-17T20:55:33Z",
+            "owner": "IBM",
+            "repo": "browser-functions",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azure-functions-express",
+          "description": "Allows Express.js usage with Azure Functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-03T09:14:55Z",
+            "owner": "yvele",
+            "repo": "azure-function-express",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turtle",
+          "description": "library for building functional and actor-driven NodeJS apps on Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-08T01:03:45Z",
+            "owner": "iopipe",
+            "repo": "turtle",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mantil",
+          "description": "Golang serverless development kit for AWS Lambda. Tool for developers that removes ops work for them, not just another infrastructure tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-07T11:23:06Z",
+            "owner": "mantil-io",
+            "repo": "mantil",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIM",
+          "description": "A CloudFormation first approach to AWS Lambdas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-25T18:09:33Z",
+            "owner": "thestackshack",
+            "repo": "cim",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FunctionShield",
+          "description": "A security library that equips developers with the ability to easily enforce strict security controls on AWS Lambda function runtime by addressing 3 common use cases: 1) Disable outbound internet connectivity. 2) Disable read/write on the /tmp/ directory 3) Disable child process execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-29T17:01:52Z",
+            "owner": "puresec",
+            "repo": "FunctionShield",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowbject",
+          "description": "A high-level library whose aim is to help with writing state-machine flows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-09-29T12:51:21Z",
+            "owner": "alex20465",
+            "repo": "flowbject",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lovage",
+          "description": "Python-only serverless framework that's more RPC-like and less HTTP service oriented.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-17T22:18:39Z",
+            "owner": "CloudSnorkel",
+            "repo": "lovage",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-restify",
+          "description": "A restify/expressjs like interface for aws lamda with api gateway event.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-08-10T19:36:08Z",
+            "owner": "kksharma1618",
+            "repo": "lambda-restify",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda Forest",
+          "description": "Microframework that makes it easier to develop REST API's using AWS Lambda Function and API Gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-10-08T19:11:02Z",
+            "owner": "tdsis",
+            "repo": "lambda-forest",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lgw",
+          "description": "Simply & easily configure an AWS Gateway & domain name in front of a Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-07T17:24:46Z",
+            "owner": "ebridges",
+            "repo": "lgw",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Compose",
+          "description": "A lightweight, functional, composable, middleware framework for AWS lambda that stays out of the way.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-05-19T20:10:33Z",
+            "owner": "DavidJFelix",
+            "repo": "serverless-compose",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Serverless-Security",
+          "description": "A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-05T06:10:36Z",
+            "owner": "puresec",
+            "repo": "awesome-serverless-security",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Security Top 10 Guide",
+          "description": "The Ten Most Critical Risks for Serverless Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-24T07:45:17Z",
+            "owner": "puresec",
+            "repo": "sas-top-10",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LambCI",
+          "description": "A continuous integration system built on AWS Lambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-23T11:41:34Z",
+            "owner": "lambci",
+            "repo": "lambci",
+            "stars": 3963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Lambda Test Runner",
+          "description": "Run your unit tests with Maven or SBT directly on AWS Lambda.",
+          "children": []
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sls-dev-tools",
+          "description": "In terminal developer dashboard for AWS Serverless architectures. (Does not replace your framework or logging/monitoring, it's used in addition)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-25T10:00:58Z",
+            "owner": "aleios-cloud",
+            "repo": "sls-dev-tools",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLIC Watch",
+          "description": "Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-05T16:51:06Z",
+            "owner": "fourTheorem",
+            "repo": "slic-watch",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless-es-logger",
+          "description": "serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-16T22:01:06Z",
+            "owner": "karloscodes",
+            "repo": "serverless-es-logger",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS IoT Button logger to git",
+          "description": "A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-31T14:48:51Z",
+            "owner": "kachkaev",
+            "repo": "aws-iot-button-logger-to-git",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Observability Tools (Logging / Monitoring / Performance / Tracing)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stripe Lambda function",
+          "description": "A Lambda function for charging cards with Stripe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-29T17:28:00Z",
+            "owner": "TaylorBriggs",
+            "repo": "stripe-lambda",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stripe Azure function",
+          "description": "An Azure Function that uses the Stripe api for a checkout process in a Vue application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-05T13:03:45Z",
+            "owner": "sdras",
+            "repo": "sample-stripe-handler",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCF-Stripe",
+          "description": "serverless use of Stripe over Google Cloud Functions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-03T16:47:46Z",
+            "owner": "rldaulton",
+            "repo": "GCF-Stripe",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stripe Serverless webhook",
+          "description": "Serverless Module that creates a webhook for Stripe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-12T15:30:17Z",
+            "owner": "eahefnawy",
+            "repo": "serverless-stripe-webhook",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Payments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serverless Mailer",
+          "description": "Serverless Module for sending emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-25T14:17:06Z",
+            "owner": "eahefnawy",
+            "repo": "serverless-mailer",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda Mailer",
+          "description": "AWS Lambda for sending emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-29T14:36:50Z",
+            "owner": "eahefnawy",
+            "repo": "lambda-mailer",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailchimp Lambda",
+          "description": "A Lambda function for subscribing to a MailChimp list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-31T14:29:45Z",
+            "owner": "TaylorBriggs",
+            "repo": "mailchimp-lambda",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailchimp Lambda Single Opt-in",
+          "description": "An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-23T17:27:51Z",
+            "owner": "anaibol",
+            "repo": "lambda-mailchimp-single-opt-in",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Email sending, subscriptions and newsletters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "faas",
+          "description": "Run Docker containers as functions on Swarm Mode (blog post)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T09:09:13Z",
+            "owner": "openfaas",
+            "repo": "faas",
+            "stars": 26221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Lambda",
+          "description": "Docker images and test runners that replicate the live AWS Lambda environment",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-01-15T21:14:40Z",
+            "owner": "lambci",
+            "repo": "docker-lambda",
+            "stars": 5783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Flogo",
+          "description": "Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-04-24T18:42:04Z",
+            "owner": "TIBCOSoftware",
+            "repo": "flogo",
+            "stars": 2491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-fledged",
+          "description": "A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T10:52:16Z",
+            "owner": "senthilrch",
+            "repo": "kube-fledged",
+            "stars": 1372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform AWS Lambda module",
+          "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-06T16:22:58Z",
+            "owner": "terraform-aws-modules",
+            "repo": "terraform-aws-lambda",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda Comments",
+          "description": "Blog commenting system built with AWS Lambda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-16T01:16:15Z",
+            "owner": "jimpick",
+            "repo": "lambda-comments",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCAR",
+          "description": "Serverless Container-aware ARchitectures (e.g. run containers out of your Docker images in AWS Lambda).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T11:01:11Z",
+            "owner": "grycap",
+            "repo": "scar",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daggy",
+          "description": "Data Aggregation Utility. Remote or local data aggregation and streaming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T16:55:28Z",
+            "owner": "synacker",
+            "repo": "daggy",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backstage Functions",
+          "description": "An Open Source Serverless Platform able to store and execute code maintained by Globo.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T01:09:23Z",
+            "owner": "globocom",
+            "repo": "functions",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Permission Policy Generator",
+          "description": "An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-17T06:07:01Z",
+            "owner": "Open-SL",
+            "repo": "serverless-permission-generator",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless.tf playground",
+          "description": "serverless.tf playground to show Terraform with Serverless in action.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-02-05T19:57:21Z",
+            "owner": "antonbabenko",
+            "repo": "serverless.tf-playground",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FunctionCI",
+          "description": "Continuous Integration for AWS Lambdas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-13T19:19:24Z",
+            "owner": "rgfindl",
+            "repo": "functionci",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mutton",
+          "description": "A Python shim library for better AWS Lambda Handlers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:00:47Z",
+            "owner": "hmngwy",
+            "repo": "mutton",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless-slack-webhook",
+          "description": "Serverless Module that creates a webhook for Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-12T16:26:43Z",
+            "owner": "eahefnawy",
+            "repo": "serverless-slack-webhook",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lambda Shim",
+          "description": "A node.js shim library to simplify Lambda function development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-10T04:06:17Z",
+            "owner": "ffleet",
+            "repo": "shim",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gofn",
+          "description": "Go package for function process via container provider (serverless minimalist)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-09-21T13:16:18Z",
+            "owner": "nuveo",
+            "repo": "gofn",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Lambda Debugger",
+          "description": "Remote debugging tool for Lambda functions running on Node 6.10",
+          "children": []
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "You want to contribute to this project? Please follow these recommendations.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:48.307Z",
+    "original_repository": "anaibol/awesome-serverless",
+    "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
+    "enhanced_repository": "enhansome/enhansome-serverless",
+    "enhanced_repository_description": null,
+    "title": ":cloud: Awesome Serverless with stars"
+  }
+}
