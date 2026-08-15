@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T03:08:14Z",
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21413
+            "stars": 21410
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-09T23:36:59Z",
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5111
+            "stars": 5117
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:36:14Z",
+            "last_commit": "2026-08-15T00:26:36Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6727
+            "stars": 6728
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26222
+            "stars": 26221
           }
         },
         {
@@ -815,7 +815,7 @@
             "last_commit": "2024-04-24T18:42:04Z",
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2491
+            "stars": 2492
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:42:59.092Z",
+    "last_updated": "2026-08-15T03:32:08.031Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
