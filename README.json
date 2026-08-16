@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T03:08:14Z",
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21410
+            "stars": 21409
           }
         },
         {
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T22:12:41Z",
+            "last_commit": "2026-08-16T01:27:25Z",
             "owner": "vuics",
             "repo": "h9y",
             "stars": 36
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-09T23:36:59Z",
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5117
+            "stars": 5128
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26221
+            "stars": 26220
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:32:08.031Z",
+    "last_updated": "2026-08-16T03:41:34.619Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
