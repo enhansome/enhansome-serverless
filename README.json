@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T01:27:25Z",
+            "last_commit": "2026-08-17T19:22:28Z",
             "owner": "vuics",
             "repo": "h9y",
             "stars": 36
@@ -129,7 +129,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11823
+            "stars": 11822
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-12T15:03:00Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11063
+            "stars": 11061
           }
         },
         {
@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:26:36Z",
+            "last_commit": "2026-08-18T00:06:25Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6728
@@ -238,10 +238,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:50:59Z",
+            "last_commit": "2026-08-18T00:19:10Z",
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
-            "stars": 1065
+            "stars": 1064
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2023-04-25T10:00:58Z",
             "owner": "aleios-cloud",
             "repo": "sls-dev-tools",
-            "stars": 872
+            "stars": 871
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26222
+            "stars": 26224
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2023-01-15T21:14:40Z",
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5783
+            "stars": 5782
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:42:26.090Z",
+    "last_updated": "2026-08-18T03:38:07.325Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
