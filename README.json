@@ -19,7 +19,7 @@
             "last_commit": "2026-08-07T03:08:14Z",
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21410
+            "stars": 21409
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-12T15:03:00Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11061
+            "stars": 11062
           }
         },
         {
@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T00:06:25Z",
+            "last_commit": "2026-08-18T22:31:10Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6728
@@ -238,10 +238,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T00:19:10Z",
+            "last_commit": "2026-08-18T21:02:54Z",
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
-            "stars": 1064
+            "stars": 1065
           }
         },
         {
@@ -787,7 +787,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26224
+            "stars": 26226
           }
         },
         {
@@ -1021,7 +1021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:38:07.325Z",
+    "last_updated": "2026-08-19T03:39:41.528Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
