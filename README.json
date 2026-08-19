@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Quora: What is Serverless Computing?",
-      "items": [],
-      "title": "What is \"serverless\" computing?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50603846,
             "language": "JavaScript",
             "last_commit": "2026-08-07T03:08:14Z",
             "owner": "parse-community",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 538612842,
             "language": "Go",
             "last_commit": "2026-01-21T22:56:03Z",
             "owner": "klothoplatform",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481983343,
             "language": "Go",
             "last_commit": "2026-01-20T18:53:05Z",
             "owner": "brexhq",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1005218859,
             "language": "JavaScript",
             "last_commit": "2026-08-17T19:22:28Z",
             "owner": "vuics",
@@ -68,7 +67,7 @@
       "title": "All in one solutions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666084768,
             "language": "Go",
             "last_commit": "2026-08-16T20:19:56Z",
             "owner": "taubyte",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109512938,
             "language": "Go",
             "last_commit": "2023-03-10T10:29:17Z",
             "owner": "openfaas",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52531733,
             "language": "Go",
             "last_commit": "2016-05-05T09:36:54Z",
             "owner": "siscia",
@@ -116,7 +118,7 @@
       "title": "Hosting and code execution in the cloud"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50063252,
             "language": "Python",
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59868262,
             "language": "Python",
             "last_commit": "2026-08-12T15:03:00Z",
             "owner": "aws",
@@ -153,8 +157,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-18T22:31:10Z",
+            "last_commit": "2026-08-19T09:43:56Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6728
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51115084,
             "language": "JavaScript",
             "last_commit": "2026-05-03T07:02:09Z",
             "owner": "claudiajs",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61755229,
             "language": "Go",
             "last_commit": "2023-09-15T01:37:58Z",
             "owner": "iron-io",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44441373,
             "language": "Python",
             "last_commit": "2019-04-11T19:16:43Z",
             "owner": "jorgebastida",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52575367,
             "language": "Python",
             "last_commit": "2023-06-28T11:38:10Z",
             "owner": "nficano",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106726943,
             "language": "JavaScript",
             "last_commit": "2026-08-08T17:08:11Z",
             "owner": "jeremydaly",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68877113,
             "language": "Java",
             "last_commit": "2026-08-18T21:02:54Z",
             "owner": "spring-cloud",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27279174,
             "language": "Python",
             "last_commit": "2021-07-23T23:15:00Z",
             "owner": "garnaat",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266538906,
             "language": null,
             "last_commit": "2025-03-19T14:56:19Z",
             "owner": "antonbabenko",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74852716,
             "language": "JavaScript",
             "last_commit": "2019-09-29T16:02:37Z",
             "owner": "kubek2k",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43718196,
             "language": "HTML",
             "last_commit": "2026-01-21T07:00:37Z",
             "owner": "MitocGroup",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97091215,
             "language": "Go",
             "last_commit": "2023-03-30T20:18:26Z",
             "owner": "fission",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41713561,
             "language": "JavaScript",
             "last_commit": "2018-08-21T09:05:17Z",
             "owner": "bustle",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74091651,
             "language": "Go",
             "last_commit": "2019-07-28T18:09:26Z",
             "owner": "tmaiaroto",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54189483,
             "language": "Java",
             "last_commit": "2019-03-29T09:02:17Z",
             "owner": "cagataygurturk",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215803433,
             "language": "JavaScript",
             "last_commit": "2025-09-17T20:55:33Z",
             "owner": "IBM",
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72630744,
             "language": "JavaScript",
             "last_commit": "2023-07-03T09:14:55Z",
             "owner": "yvele",
@@ -391,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46544519,
             "language": "JavaScript",
             "last_commit": "2018-02-08T01:03:45Z",
             "owner": "iopipe",
@@ -405,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400750671,
             "language": "Go",
             "last_commit": "2022-11-07T11:23:06Z",
             "owner": "mantil-io",
@@ -419,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102864277,
             "language": "JavaScript",
             "last_commit": "2019-03-25T18:09:33Z",
             "owner": "thestackshack",
@@ -433,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169050843,
             "language": null,
             "last_commit": "2019-10-29T17:01:52Z",
             "owner": "puresec",
@@ -447,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 121982822,
             "language": "TypeScript",
             "last_commit": "2019-09-29T12:51:21Z",
             "owner": "alex20465",
@@ -461,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 236130073,
             "language": "Python",
             "last_commit": "2023-10-17T22:18:39Z",
             "owner": "CloudSnorkel",
@@ -475,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97483699,
             "language": "TypeScript",
             "last_commit": "2018-08-10T19:36:08Z",
             "owner": "kksharma1618",
@@ -489,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84074719,
             "language": "Java",
             "last_commit": "2018-10-08T19:11:02Z",
             "owner": "tdsis",
@@ -503,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225214278,
             "language": "Python",
             "last_commit": "2024-11-07T17:24:46Z",
             "owner": "ebridges",
@@ -517,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 494211222,
             "language": "TypeScript",
             "last_commit": "2022-05-19T20:10:33Z",
             "owner": "DavidJFelix",
@@ -528,7 +559,7 @@
       "title": "Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -537,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165110213,
             "language": null,
             "last_commit": "2022-05-05T06:10:36Z",
             "owner": "puresec",
@@ -551,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143241790,
             "language": null,
             "last_commit": "2019-10-24T07:45:17Z",
             "owner": "puresec",
@@ -562,7 +595,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -571,24 +604,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60991082,
             "language": "Shell",
             "last_commit": "2024-04-23T11:41:34Z",
             "owner": "lambci",
             "repo": "lambci",
             "stars": 3963
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Lambda Test Runner",
-          "description": "Run your unit tests with Maven or SBT directly on AWS Lambda.",
-          "children": []
         }
       ],
       "title": "CI/CD"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -597,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203430138,
             "language": "JavaScript",
             "last_commit": "2023-04-25T10:00:58Z",
             "owner": "aleios-cloud",
@@ -611,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280642845,
             "language": "JavaScript",
             "last_commit": "2026-05-05T16:51:06Z",
             "owner": "fourTheorem",
@@ -625,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 217575115,
             "language": "JavaScript",
             "last_commit": "2021-11-16T22:01:06Z",
             "owner": "karloscodes",
@@ -639,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178562465,
             "language": "TypeScript",
             "last_commit": "2024-08-31T14:48:51Z",
             "owner": "kachkaev",
@@ -650,7 +682,7 @@
       "title": "Observability Tools (Logging / Monitoring / Performance / Tracing)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -659,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43731025,
             "language": "JavaScript",
             "last_commit": "2018-03-29T17:28:00Z",
             "owner": "TaylorBriggs",
@@ -673,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112036900,
             "language": "JavaScript",
             "last_commit": "2017-12-05T13:03:45Z",
             "owner": "sdras",
@@ -687,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83002159,
             "language": "JavaScript",
             "last_commit": "2022-02-03T16:47:46Z",
             "owner": "rldaulton",
@@ -701,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43254383,
             "language": "JavaScript",
             "last_commit": "2015-12-12T15:30:17Z",
             "owner": "eahefnawy",
@@ -712,7 +748,7 @@
       "title": "Payments"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -721,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43323619,
             "language": "JavaScript",
             "last_commit": "2018-06-25T14:17:06Z",
             "owner": "eahefnawy",
@@ -735,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43643966,
             "language": "JavaScript",
             "last_commit": "2020-02-29T14:36:50Z",
             "owner": "eahefnawy",
@@ -749,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43792943,
             "language": "JavaScript",
             "last_commit": "2017-10-31T14:29:45Z",
             "owner": "TaylorBriggs",
@@ -763,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61279415,
             "language": "JavaScript",
             "last_commit": "2016-06-23T17:27:51Z",
             "owner": "anaibol",
@@ -774,7 +814,7 @@
       "title": "Email sending, subscriptions and newsletters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -783,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77144337,
             "language": "Go",
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
@@ -797,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59715467,
             "language": "C#",
             "last_commit": "2023-01-15T21:14:40Z",
             "owner": "lambci",
@@ -811,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62978868,
             "language": "CSS",
             "last_commit": "2024-04-24T18:42:04Z",
             "owner": "TIBCOSoftware",
@@ -825,11 +868,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154798664,
             "language": "Go",
             "last_commit": "2026-07-17T10:52:16Z",
             "owner": "senthilrch",
             "repo": "kube-fledged",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
@@ -839,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268826962,
             "language": "HCL",
             "last_commit": "2026-08-06T16:22:58Z",
             "owner": "terraform-aws-modules",
@@ -853,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55813505,
             "language": "JavaScript",
             "last_commit": "2016-09-16T01:16:15Z",
             "owner": "jimpick",
@@ -867,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91441209,
             "language": "Python",
             "last_commit": "2023-05-22T11:01:11Z",
             "owner": "grycap",
@@ -881,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148928130,
             "language": "C++",
             "last_commit": "2026-07-26T16:55:28Z",
             "owner": "synacker",
@@ -895,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69399580,
             "language": "JavaScript",
             "last_commit": "2026-05-04T01:09:23Z",
             "owner": "globocom",
@@ -909,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279014762,
             "language": "JavaScript",
             "last_commit": "2026-01-17T06:07:01Z",
             "owner": "Open-SL",
@@ -923,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271271050,
             "language": "HCL",
             "last_commit": "2026-02-05T19:57:21Z",
             "owner": "antonbabenko",
@@ -937,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109171968,
             "language": "JavaScript",
             "last_commit": "2018-02-13T19:19:24Z",
             "owner": "rgfindl",
@@ -951,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150195899,
             "language": "Python",
             "last_commit": "2022-12-08T03:00:47Z",
             "owner": "hmngwy",
@@ -965,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43309938,
             "language": "JavaScript",
             "last_commit": "2015-12-12T16:26:43Z",
             "owner": "eahefnawy",
@@ -979,6 +1033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140007403,
             "language": "JavaScript",
             "last_commit": "2018-08-10T04:06:17Z",
             "owner": "ffleet",
@@ -993,36 +1048,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148219223,
             "language": "Go",
             "last_commit": "2018-09-21T13:16:18Z",
             "owner": "nuveo",
             "repo": "gofn",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Lambda Debugger",
-          "description": "Remote debugging tool for Lambda functions running on Node 6.10",
-          "children": []
         }
       ],
       "title": "Others"
-    },
-    {
-      "description": "You want to contribute to this project? Please follow these recommendations.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:39:41.528Z",
+    "last_updated": "2026-08-19T12:50:52.068Z",
     "original_repository": "anaibol/awesome-serverless",
+    "original_repository_id": 51401194,
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
     "enhanced_repository_description": null,
