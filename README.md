@@ -50,7 +50,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,410 | 🐛 552 | 🌐 JavaScript | 📅 2026-08-07.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,410 | 🐛 553 | 🌐 JavaScript | 📅 2026-08-07.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,146 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Substation](https://github.com/brexhq/substation) ⭐ 403 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 36 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-21 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
@@ -72,7 +72,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Hosting and code execution in the cloud
 
-* [Tau](https://github.com/taubyte/tau) ⭐ 5,131 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
+* [Tau](https://github.com/taubyte/tau) ⭐ 5,132 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) ⚠️ Archived - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Effe](https://github.com/siscia/effe) ⭐ 230 | 🐛 1 | 🌐 Go | 📅 2016-05-05 - a simple Open Source building block to emulate AWS Lambda.
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
@@ -109,14 +109,14 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Frameworks
 
-* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,821 | 🐛 687 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
+* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,822 | 🐛 687 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [Chalice](https://github.com/awslabs/chalice) ⭐ 11,061 | 🐛 492 | 🌐 Python | 📅 2026-08-12 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,729 | 🐛 537 | 🌐 Python | 📅 2026-08-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,562 | 🐛 126 | 🌐 Python | 📅 2026-08-22
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,730 | 🐛 536 | 🌐 Python | 📅 2026-08-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,562 | 🐛 126 | 🌐 Python | 📅 2026-08-22
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,885 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,026 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [Python-λ](https://github.com/nficano/python-lambda) ⚠️ Archived - A toolkit for developing and deploying serverless Python code in AWS Lambda.
-* [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,468 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-08 - Lightweight web framework for your serverless applications.
+* [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,468 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-22 - Lightweight web framework for your serverless applications.
 * [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,066 | 🐛 13 | 🌐 Java | 📅 2026-08-21 - Java framework for doing Functions using Spring ecosystem.
 * [Kappa](https://github.com/garnaat/kappa) ⭐ 895 | 🐛 41 | 🌐 Python | 📅 2021-07-23 - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
 * [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 879 | 🐛 1 | 📅 2025-03-19).
@@ -163,7 +163,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Security
 
-* [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) ⭐ 635 | 🐛 5 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+* [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) ⭐ 636 | 🐛 5 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) ⭐ 339 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Risks for Serverless Applications.
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
 * [AWS Lambda Security Best-Practices eBook](https://www.puresec.io/aws-lambda-security-best-practices) - An AWS Lambda security best-practices eBook
@@ -323,7 +323,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 * [Cube.js](https://cube.dev/) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
-* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,482 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
+* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,483 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads.
@@ -335,7 +335,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Docker Lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) ⭐ 2,492 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,373 | 🐛 23 | 🌐 Go | 📅 2026-07-17 - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
-* [Terraform AWS Lambda module](https://github.com/terraform-aws-modules/terraform-aws-lambda/) ⭐ 1,046 | 🐛 10 | 🌐 HCL | 📅 2026-08-06 - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations.
+* [Terraform AWS Lambda module](https://github.com/terraform-aws-modules/terraform-aws-lambda/) ⭐ 1,045 | 🐛 8 | 🌐 HCL | 📅 2026-08-06 - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations.
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) ⭐ 620 | 🐛 8 | 🌐 JavaScript | 📅 2016-09-16 - Blog commenting system built with AWS Lambda
 * [SCAR](https://github.com/grycap/scar) ⭐ 598 | 🐛 28 | 🌐 Python | 📅 2023-05-22 - Serverless Container-aware ARchitectures (e.g. run containers out of your Docker images in AWS Lambda).
 * [Daggy](https://github.com/synacker/daggy) ⭐ 165 | 🐛 7 | 🌐 C++ | 📅 2026-07-26 - Data Aggregation Utility. Remote or local data aggregation and streaming
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

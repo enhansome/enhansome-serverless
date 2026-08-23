@@ -81,7 +81,7 @@
             "last_commit": "2026-08-16T20:19:56Z",
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5131
+            "stars": 5132
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11821
+            "stars": 11822
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-21T17:31:06Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6729
+            "stars": 6730
           }
         },
         {
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 106726943,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T17:08:11Z",
+            "last_commit": "2026-08-22T16:45:07Z",
             "owner": "jeremydaly",
             "repo": "lambda-api",
             "stars": 1468
@@ -573,7 +573,7 @@
             "last_commit": "2022-05-05T06:10:36Z",
             "owner": "puresec",
             "repo": "awesome-serverless-security",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2023-01-15T21:14:40Z",
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5782
+            "stars": 5781
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2026-08-06T16:22:58Z",
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
-            "stars": 1046
+            "stars": 1045
           }
         },
         {
@@ -1061,7 +1061,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:35:24.422Z",
+    "last_updated": "2026-08-23T03:43:12.327Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_id": 51401194,
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
