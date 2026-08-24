@@ -15,7 +15,7 @@
             "last_commit": "2026-08-07T03:08:14Z",
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21410
+            "stars": 21412
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11822
+            "stars": 11821
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-21T17:31:06Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6730
+            "stars": 6731
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26228
+            "stars": 26232
           }
         },
         {
@@ -1061,7 +1061,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:43:12.327Z",
+    "last_updated": "2026-08-24T03:46:49.739Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_id": 51401194,
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
