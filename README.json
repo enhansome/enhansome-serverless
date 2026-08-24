@@ -132,7 +132,7 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11821
+            "stars": 11822
           }
         },
         {
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-21T17:31:06Z",
+            "last_commit": "2026-08-24T09:46:31Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6731
@@ -752,6 +752,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "EndlessCommerce",
+          "description": "Open source ecommerce platform based on Serverless framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71061161,
+            "language": "JavaScript",
+            "last_commit": "2016-12-13T00:19:30Z",
+            "owner": "endless-commerce",
+            "repo": "endless",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "eCommerce"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stiva",
+          "description": "Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136727247,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T10:22:28Z",
+            "owner": "anddimario",
+            "repo": "stiva",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Content Management Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Formplug",
+          "description": "Form forwarding service for AWS Lambda.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 74924589,
+            "language": "JavaScript",
+            "last_commit": "2022-06-25T23:40:12Z",
+            "owner": "danielireson",
+            "repo": "formplug",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Letter Avatar",
+          "description": "Generates Google-like binary avatar images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101657534,
+            "language": "JavaScript",
+            "last_commit": "2017-08-30T16:41:47Z",
+            "owner": "KevinColemanInc",
+            "repo": "letter-avatar-serverless",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Media management and File storage"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Serverless Mailer",
           "description": "Serverless Module for sending emails.",
           "children": [],
@@ -818,6 +902,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "serverless-twilio",
+          "description": "Serverless Module to send SMS via twilio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43251615,
+            "language": "JavaScript",
+            "last_commit": "2015-12-12T14:56:57Z",
+            "owner": "eahefnawy",
+            "repo": "serverless-twilio",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "SMS sending"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ParanoidGuy Databunker",
+          "description": "Personally identifiable information (PII) storage service built to comply with GDPR and CCPA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226737538,
+            "language": "Go",
+            "last_commit": "2026-07-28T09:36:53Z",
+            "owner": "securitybunker",
+            "repo": "databunker",
+            "stars": 1483
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "faas",
           "description": "Run Docker containers as functions on Swarm Mode (blog post)",
           "children": [],
@@ -828,7 +954,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26232
+            "stars": 26233
           }
         },
         {
@@ -1061,7 +1187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:46:49.739Z",
+    "last_updated": "2026-08-24T13:51:35.359Z",
     "original_repository": "anaibol/awesome-serverless",
     "original_repository_id": 51401194,
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",

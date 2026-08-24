@@ -109,9 +109,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Frameworks
 
-* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,821 | 🐛 687 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
+* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,822 | 🐛 687 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [Chalice](https://github.com/awslabs/chalice) ⭐ 11,061 | 🐛 492 | 🌐 Python | 📅 2026-08-12 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,731 | 🐛 536 | 🌐 Python | 📅 2026-08-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,562 | 🐛 127 | 🌐 Python | 📅 2026-08-22
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,731 | 🐛 536 | 🌐 Python | 📅 2026-08-24 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,562 | 🐛 127 | 🌐 Python | 📅 2026-08-22
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,885 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,026 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
@@ -234,13 +234,14 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## eCommerce
 
+* [EndlessCommerce](https://github.com/endless-commerce/endless) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2016-12-13 - Open source ecommerce platform based on Serverless framework.
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
-* [EndlessCommerce](https://github.com/endless-commerce/endless) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2016-12-13 - Open source ecommerce platform based on Serverless framework.
 * [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
 ## Content Management Systems
 
+* [Stiva](https://github.com/anddimario/stiva) ⭐ 17 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-24 - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
 * [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
 * [Cosmicjs](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
 * [GraphCMS](https://graphcms.com/) - GraphQL based, no opinion CMS for your digital products.
@@ -249,11 +250,11 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
-* [Stiva](https://github.com/anddimario/stiva) ⭐ 17 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-24 - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
 * [Forestry](https://forestry.io/) - Git-backed CMS for Static Site Generators like Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc.
 
 ## Forms
 
+* [Formplug](https://github.com/danielireson/formplug-serverless) ⚠️ Archived - Form forwarding service for AWS Lambda.
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formcake](https://formcake.com) - Form backend built for developers with spam protection, Zapier integration, and API access.
@@ -261,7 +262,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
-* [Formplug](https://github.com/danielireson/formplug-serverless) ⚠️ Archived - Form forwarding service for AWS Lambda.
 * [FormAssembly](http://www.formassembly.com/).
 * [Getform](http://getform.io/) - Free form backend platform for your HTML forms and static websites. Provides Zapier and Webhook support and submissions API.
 * [Google Forms](https://docs.google.com/forms/) - Create and analyze online forms and surveys.
@@ -273,9 +273,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Media management and File storage
 
+* [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-30 - Generates Google-like binary avatar images
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
-* [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-30 - Generates Google-like binary avatar images
 * [Mux](https://mux.com) - Streaming video infrastructure for developers. Add a live stream or upload a video file, then get thumbnails, animated gifs and more via simple API calls.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 
@@ -314,6 +314,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Databases
 
+* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,483 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - Flexible NoSQL database service
 * [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/) - Serverless MySQL Database service
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
@@ -323,7 +324,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 * [Cube.js](https://cube.dev/) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
-* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,483 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads.
@@ -331,7 +331,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Others
 
-* [faas](https://github.com/alexellis/faas) ⭐ 26,232 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [faas](https://github.com/alexellis/faas) ⭐ 26,233 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [Docker Lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) ⭐ 2,492 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,373 | 🐛 23 | 🌐 Go | 📅 2026-07-17 - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
