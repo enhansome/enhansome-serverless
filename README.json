@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T01:35:53Z",
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21412
+            "stars": 21411
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1005218859,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T17:06:12Z",
+            "last_commit": "2026-08-26T20:55:22Z",
             "owner": "vuics",
             "repo": "h9y",
             "stars": 36
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-16T20:19:56Z",
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5132
+            "stars": 5131
           }
         },
         {
@@ -159,10 +159,10 @@
             "archived": false,
             "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-25T09:39:53Z",
+            "last_commit": "2026-08-27T09:46:35Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6731
+            "stars": 6732
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2023-09-15T01:37:58Z",
             "owner": "iron-io",
             "repo": "functions",
-            "stars": 3215
+            "stars": 3214
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 68877113,
             "language": "Java",
-            "last_commit": "2026-08-21T18:04:46Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066
@@ -954,7 +954,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26232
+            "stars": 26230
           }
         },
         {
@@ -1187,9 +1187,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:46:45.290Z",
-    "original_repository": "anaibol/awesome-serverless",
-    "original_repository_id": 51401194,
+    "last_updated": "2026-08-27T12:01:43.533Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51401194,
+      "language": null,
+      "last_commit": "2026-02-11T16:45:39Z",
+      "owner": "anaibol",
+      "repo": "awesome-serverless",
+      "stars": 7585
+    },
     "original_repository_sha": "3e559b2b4c44609e4db167cacd288485d91467e3",
     "enhanced_repository": "enhansome/enhansome-serverless",
     "enhanced_repository_description": null,
