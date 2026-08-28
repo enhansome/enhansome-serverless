@@ -16,7 +16,8 @@
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21411
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "klothoplatform",
             "repo": "klotho",
             "stars": 1146
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "brexhq",
             "repo": "substation",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 1005218859,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T20:55:22Z",
+            "last_commit": "2026-08-27T23:16:28Z",
             "owner": "vuics",
             "repo": "h9y",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "All in one solutions"
@@ -82,7 +86,8 @@
             "owner": "taubyte",
             "repo": "tau",
             "stars": 5131
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "openfaas",
             "repo": "openfaas-cloud",
             "stars": 769
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "siscia",
             "repo": "effe",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Hosting and code execution in the cloud"
@@ -132,8 +139,9 @@
             "last_commit": "2023-03-23T13:59:31Z",
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11822
-          }
+            "stars": 11823
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2026-08-12T15:03:00Z",
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11061
-          }
+            "stars": 11060
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -159,11 +168,12 @@
             "archived": false,
             "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-27T09:46:35Z",
+            "last_commit": "2026-08-28T09:50:25Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6732
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "claudiajs",
             "repo": "claudia",
             "stars": 3885
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "iron-io",
             "repo": "functions",
             "stars": 3214
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "jorgebastida",
             "repo": "gordon",
             "stars": 2026
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "nficano",
             "repo": "python-lambda",
             "stars": 1514
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "jeremydaly",
             "repo": "lambda-api",
             "stars": 1469
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 68877113,
             "language": "Java",
-            "last_commit": "2026-08-26T21:31:38Z",
+            "last_commit": "2026-08-27T20:53:02Z",
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "garnaat",
             "repo": "kappa",
             "stars": 895
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "antonbabenko",
             "repo": "serverless.tf",
             "stars": 879
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "kubek2k",
             "repo": "lambdoku",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "MitocGroup",
             "repo": "deep-framework",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "fission",
             "repo": "fission-workflows",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "bustle",
             "repo": "shep",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "tmaiaroto",
             "repo": "aegis",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "cagataygurturk",
             "repo": "lambadaframework",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "IBM",
             "repo": "browser-functions",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "yvele",
             "repo": "azure-function-express",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "iopipe",
             "repo": "turtle",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "mantil-io",
             "repo": "mantil",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "thestackshack",
             "repo": "cim",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "puresec",
             "repo": "FunctionShield",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "alex20465",
             "repo": "flowbject",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "CloudSnorkel",
             "repo": "lovage",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "kksharma1618",
             "repo": "lambda-restify",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "tdsis",
             "repo": "lambda-forest",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "ebridges",
             "repo": "lgw",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "DavidJFelix",
             "repo": "serverless-compose",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Frameworks"
@@ -574,7 +610,8 @@
             "owner": "puresec",
             "repo": "awesome-serverless-security",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "puresec",
             "repo": "sas-top-10",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Security"
@@ -609,8 +647,9 @@
             "last_commit": "2024-04-23T11:41:34Z",
             "owner": "lambci",
             "repo": "lambci",
-            "stars": 3962
-          }
+            "stars": 3963
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "CI/CD"
@@ -631,7 +670,8 @@
             "owner": "aleios-cloud",
             "repo": "sls-dev-tools",
             "stars": 871
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "fourTheorem",
             "repo": "slic-watch",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "karloscodes",
             "repo": "serverless-es-logger",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "kachkaev",
             "repo": "aws-iot-button-logger-to-git",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Observability Tools (Logging / Monitoring / Performance / Tracing)"
@@ -697,7 +740,8 @@
             "owner": "TaylorBriggs",
             "repo": "stripe-lambda",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "sdras",
             "repo": "sample-stripe-handler",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "rldaulton",
             "repo": "GCF-Stripe",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "eahefnawy",
             "repo": "serverless-stripe-webhook",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Payments"
@@ -763,7 +810,8 @@
             "owner": "endless-commerce",
             "repo": "endless",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "eCommerce"
@@ -784,7 +832,8 @@
             "owner": "anddimario",
             "repo": "stiva",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Content Management Systems"
@@ -805,7 +854,8 @@
             "owner": "danielireson",
             "repo": "formplug",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Forms"
@@ -826,7 +876,8 @@
             "owner": "KevinColemanInc",
             "repo": "letter-avatar-serverless",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Media management and File storage"
@@ -847,7 +898,8 @@
             "owner": "eahefnawy",
             "repo": "serverless-mailer",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -862,7 +914,8 @@
             "owner": "eahefnawy",
             "repo": "lambda-mailer",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -877,7 +930,8 @@
             "owner": "TaylorBriggs",
             "repo": "mailchimp-lambda",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -892,7 +946,8 @@
             "owner": "anaibol",
             "repo": "lambda-mailchimp-single-opt-in",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Email sending, subscriptions and newsletters"
@@ -913,7 +968,8 @@
             "owner": "eahefnawy",
             "repo": "serverless-twilio",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "SMS sending"
@@ -933,8 +989,9 @@
             "last_commit": "2026-07-28T09:36:53Z",
             "owner": "securitybunker",
             "repo": "databunker",
-            "stars": 1482
-          }
+            "stars": 1483
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Databases"
@@ -954,8 +1011,9 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26230
-          }
+            "stars": 26231
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1028,8 @@
             "owner": "lambci",
             "repo": "docker-lambda",
             "stars": 5781
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1044,8 @@
             "owner": "TIBCOSoftware",
             "repo": "flogo",
             "stars": 2492
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1060,8 @@
             "owner": "senthilrch",
             "repo": "kube-fledged",
             "stars": 1373
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1076,8 @@
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
             "stars": 1045
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1092,8 @@
             "owner": "jimpick",
             "repo": "lambda-comments",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1108,8 @@
             "owner": "grycap",
             "repo": "scar",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1124,8 @@
             "owner": "synacker",
             "repo": "daggy",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1140,8 @@
             "owner": "globocom",
             "repo": "functions",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1156,8 @@
             "owner": "Open-SL",
             "repo": "serverless-permission-generator",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1172,8 @@
             "owner": "antonbabenko",
             "repo": "serverless.tf-playground",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1188,8 @@
             "owner": "rgfindl",
             "repo": "functionci",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1204,8 @@
             "owner": "hmngwy",
             "repo": "mutton",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1220,8 @@
             "owner": "eahefnawy",
             "repo": "serverless-slack-webhook",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1236,8 @@
             "owner": "ffleet",
             "repo": "shim",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         },
         {
           "node_type": "item",
@@ -1180,14 +1252,15 @@
             "owner": "nuveo",
             "repo": "gofn",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:45:42.756Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:25:37.240Z",
+    "last_updated": "2026-08-28T14:45:42.756Z",
     "original_repository_info": {
       "archived": false,
       "id": 51401194,
