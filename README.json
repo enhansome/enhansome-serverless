@@ -1637,7 +1637,7 @@
             "open_issues": 68,
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5781,
+            "stars": 5782,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:23.671Z",
+    "last_updated": "2026-08-29T09:36:31.639Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
