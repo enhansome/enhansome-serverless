@@ -116,8 +116,8 @@
             "id": 1005218859,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T23:16:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-30T00:02:54Z",
+            "open_issues": 2,
             "owner": "vuics",
             "repo": "h9y",
             "stars": 36,
@@ -167,7 +167,7 @@
             "open_issues": 9,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5131,
+            "stars": 5133,
             "topics": [
               "5g",
               "ai",
@@ -257,7 +257,7 @@
             "open_issues": 687,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11822,
+            "stars": 11823,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -1084,7 +1084,7 @@
             "open_issues": 62,
             "owner": "aleios-cloud",
             "repo": "sls-dev-tools",
-            "stars": 871,
+            "stars": 870,
             "topics": [
               "aws-lambda",
               "cli",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26231,
+            "stars": 26232,
             "topics": [
               "docker",
               "faas",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:36:31.639Z",
+    "last_updated": "2026-08-30T08:46:35.984Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
