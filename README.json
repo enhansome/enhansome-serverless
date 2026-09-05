@@ -116,7 +116,7 @@
             "id": 1005218859,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T20:39:19Z",
+            "last_commit": "2026-09-04T21:17:33Z",
             "open_issues": 2,
             "owner": "vuics",
             "repo": "h9y",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T00:25:58Z",
-            "open_issues": 520,
+            "last_commit": "2026-09-04T22:46:02Z",
+            "open_issues": 524,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6733,
@@ -481,7 +481,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T10:29:29Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066,
@@ -1000,7 +1000,7 @@
             "open_issues": 5,
             "owner": "puresec",
             "repo": "awesome-serverless-security",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "awesome",
               "aws-lambda",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26234,
+            "stars": 26232,
             "topics": [
               "docker",
               "faas",
@@ -1637,7 +1637,7 @@
             "open_issues": 68,
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5782,
+            "stars": 5781,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:34:40.197Z",
+    "last_updated": "2026-09-05T07:15:45.001Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",

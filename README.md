@@ -53,7 +53,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,415 | 🐛 556 | 🌐 JavaScript | 📅 2026-09-03.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,146 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Substation](https://github.com/brexhq/substation) ⭐ 405 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
-* [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-03 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
+* [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-04 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
@@ -111,13 +111,13 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,820 | 🐛 687 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [Chalice](https://github.com/awslabs/chalice) ⭐ 11,058 | 🐛 493 | 🌐 Python | 📅 2026-08-12 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,733 | 🐛 520 | 🌐 Python | 📅 2026-09-04 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,563 | 🐛 110 | 🌐 Python | 📅 2026-09-02
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,733 | 🐛 524 | 🌐 Python | 📅 2026-09-04 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,563 | 🐛 111 | 🌐 Python | 📅 2026-09-02
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,885 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,214 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [Python-λ](https://github.com/nficano/python-lambda) ⚠️ Archived - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 * [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,469 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-03 - Lightweight web framework for your serverless applications.
-* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,066 | 🐛 10 | 🌐 Java | 📅 2026-09-03 - Java framework for doing Functions using Spring ecosystem.
+* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,066 | 🐛 11 | 🌐 Java | 📅 2026-09-03 - Java framework for doing Functions using Spring ecosystem.
 * [Kappa](https://github.com/garnaat/kappa) ⭐ 895 | 🐛 41 | 🌐 Python | 📅 2021-07-23 - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
 * [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 879 | 🐛 1 | 📅 2025-03-19).
 * [Lambdoku](https://github.com/kubek2k/lambdoku) ⭐ 567 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-29 - Heroku-like experience when using AWS Lambda.
@@ -163,7 +163,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Security
 
-* [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) ⭐ 636 | 🐛 5 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+* [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) ⭐ 637 | 🐛 5 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) ⭐ 339 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Risks for Serverless Applications.
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
 * [AWS Lambda Security Best-Practices eBook](https://www.puresec.io/aws-lambda-security-best-practices) - An AWS Lambda security best-practices eBook
@@ -331,7 +331,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Others
 
-* [faas](https://github.com/alexellis/faas) ⭐ 26,234 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [faas](https://github.com/alexellis/faas) ⭐ 26,232 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [Docker Lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) ⭐ 2,491 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,373 | 🐛 23 | 🌐 Go | 📅 2026-07-17 - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
