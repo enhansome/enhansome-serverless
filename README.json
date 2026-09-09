@@ -15,11 +15,11 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T05:29:47Z",
-            "open_issues": 557,
+            "last_commit": "2026-09-08T22:47:43Z",
+            "open_issues": 559,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21413,
+            "stars": 21411,
             "topics": [
               "baas",
               "backend",
@@ -167,7 +167,7 @@
             "open_issues": 9,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5134,
+            "stars": 5135,
             "topics": [
               "5g",
               "ai",
@@ -257,7 +257,7 @@
             "open_issues": 687,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11819,
+            "stars": 11817,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -286,8 +286,8 @@
             "id": 59868262,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-12T15:03:00Z",
-            "open_issues": 493,
+            "last_commit": "2026-09-08T20:27:21Z",
+            "open_issues": 494,
             "owner": "aws",
             "repo": "chalice",
             "stars": 11057,
@@ -318,7 +318,7 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T09:36:55Z",
+            "last_commit": "2026-09-08T09:44:25Z",
             "open_issues": 529,
             "owner": "aws",
             "repo": "aws-sam-cli",
@@ -1700,7 +1700,7 @@
             "open_issues": 23,
             "owner": "senthilrch",
             "repo": "kube-fledged",
-            "stars": 1373,
+            "stars": 1374,
             "topics": [
               "add-on",
               "cache",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:38:13.837Z",
+    "last_updated": "2026-09-09T07:43:20.969Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
@@ -2048,7 +2048,7 @@
       "open_issues": 35,
       "owner": "anaibol",
       "repo": "awesome-serverless",
-      "stars": 7583,
+      "stars": 7584,
       "topics": [
         "cloud",
         "cloud-computing",
