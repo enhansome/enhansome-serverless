@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T22:44:12Z",
-            "open_issues": 558,
+            "open_issues": 559,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21410,
+            "stars": 21411,
             "topics": [
               "baas",
               "backend",
@@ -92,7 +92,7 @@
             "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "automation",
               "aws",
@@ -257,7 +257,7 @@
             "open_issues": 687,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11817,
+            "stars": 11818,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -286,7 +286,7 @@
             "id": 59868262,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T21:13:47Z",
+            "last_commit": "2026-09-11T17:54:09Z",
             "open_issues": 495,
             "owner": "aws",
             "repo": "chalice",
@@ -318,11 +318,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T23:32:08Z",
+            "last_commit": "2026-09-11T19:43:41Z",
             "open_issues": 534,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6732,
+            "stars": 6733,
             "topics": [
               "api-gateway",
               "aws",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26236,
+            "stars": 26235,
             "topics": [
               "docker",
               "faas",
@@ -1658,7 +1658,7 @@
             "open_issues": 128,
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2492,
+            "stars": 2491,
             "topics": [
               "aws-lambda",
               "edge",
@@ -1733,7 +1733,7 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-08-06T16:22:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
             "stars": 1043,
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:38:21.866Z",
+    "last_updated": "2026-09-12T07:30:58.445Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
@@ -2045,10 +2045,10 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-02-11T16:45:39Z",
-      "open_issues": 36,
+      "open_issues": 37,
       "owner": "anaibol",
       "repo": "awesome-serverless",
-      "stars": 7583,
+      "stars": 7584,
       "topics": [
         "cloud",
         "cloud-computing",
