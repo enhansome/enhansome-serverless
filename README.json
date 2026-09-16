@@ -167,7 +167,7 @@
             "open_issues": 9,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5135,
+            "stars": 5137,
             "topics": [
               "5g",
               "ai",
@@ -254,7 +254,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-03-23T13:59:31Z",
-            "open_issues": 687,
+            "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
             "stars": 11818,
@@ -318,7 +318,7 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T09:42:54Z",
+            "last_commit": "2026-09-15T09:52:02Z",
             "open_issues": 535,
             "owner": "aws",
             "repo": "aws-sam-cli",
@@ -480,8 +480,8 @@
             "id": 68877113,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:46:19Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-15T13:31:13Z",
+            "open_issues": 11,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066,
@@ -1658,7 +1658,7 @@
             "open_issues": 128,
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2491,
+            "stars": 2490,
             "topics": [
               "aws-lambda",
               "edge",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:14:57.020Z",
+    "last_updated": "2026-09-16T08:08:54.867Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
