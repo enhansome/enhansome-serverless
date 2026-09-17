@@ -19,7 +19,7 @@
             "open_issues": 559,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21412,
+            "stars": 21410,
             "topics": [
               "baas",
               "backend",
@@ -116,7 +116,7 @@
             "id": 1005218859,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:24:55Z",
+            "last_commit": "2026-09-16T22:32:29Z",
             "open_issues": 2,
             "owner": "vuics",
             "repo": "h9y",
@@ -290,7 +290,7 @@
             "open_issues": 495,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11058,
+            "stars": 11060,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T09:52:02Z",
-            "open_issues": 535,
+            "last_commit": "2026-09-17T08:04:59Z",
+            "open_issues": 536,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6733,
@@ -352,7 +352,7 @@
             "open_issues": 27,
             "owner": "claudiajs",
             "repo": "claudia",
-            "stars": 3882,
+            "stars": 3881,
             "topics": [
               "api-gateway",
               "aws",
@@ -452,7 +452,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-13T10:35:18Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "jeremydaly",
             "repo": "lambda-api",
             "stars": 1469,
@@ -481,10 +481,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T13:31:13Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
-            "stars": 1066,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26241,
+            "stars": 26242,
             "topics": [
               "docker",
               "faas",
@@ -1733,7 +1733,7 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-08-06T16:22:58Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
             "stars": 1043,
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:08:54.867Z",
+    "last_updated": "2026-09-17T08:15:17.361Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
