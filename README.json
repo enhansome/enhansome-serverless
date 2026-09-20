@@ -19,7 +19,7 @@
             "open_issues": 561,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21409,
+            "stars": 21410,
             "topics": [
               "baas",
               "backend",
@@ -290,7 +290,7 @@
             "open_issues": 495,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11059,
+            "stars": 11057,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -319,7 +319,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T09:46:56Z",
-            "open_issues": 537,
+            "open_issues": 539,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6733,
@@ -352,7 +352,7 @@
             "open_issues": 27,
             "owner": "claudiajs",
             "repo": "claudia",
-            "stars": 3881,
+            "stars": 3882,
             "topics": [
               "api-gateway",
               "aws",
@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "antonbabenko",
             "repo": "serverless.tf",
-            "stars": 879,
+            "stars": 878,
             "topics": [
               "aws-serverless",
               "infrastructure-as-code",
@@ -1637,7 +1637,7 @@
             "open_issues": 68,
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5780,
+            "stars": 5779,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -1736,7 +1736,7 @@
             "open_issues": 9,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "aws",
               "aws-lambda",
@@ -1809,7 +1809,7 @@
             "open_issues": 7,
             "owner": "synacker",
             "repo": "daggy",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "aggregation",
               "cross-platform-app",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:41:40.270Z",
+    "last_updated": "2026-09-20T08:09:00.970Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
@@ -2045,10 +2045,10 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-02-11T16:45:39Z",
-      "open_issues": 37,
+      "open_issues": 38,
       "owner": "anaibol",
       "repo": "awesome-serverless",
-      "stars": 7585,
+      "stars": 7584,
       "topics": [
         "cloud",
         "cloud-computing",
