@@ -50,9 +50,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,410 | 🐛 561 | 🌐 JavaScript | 📅 2026-09-13.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,410 | 🐛 561 | 🌐 JavaScript | 📅 2026-09-21.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,146 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
-* [Substation](https://github.com/brexhq/substation) ⭐ 406 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+* [Substation](https://github.com/brexhq/substation) ⭐ 407 | 🐛 3 | 🌐 Go | 📅 2026-01-20 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-20 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
@@ -72,7 +72,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Hosting and code execution in the cloud
 
-* [Tau](https://github.com/taubyte/tau) ⭐ 5,138 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
+* [Tau](https://github.com/taubyte/tau) ⭐ 5,140 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) ⚠️ Archived - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Effe](https://github.com/siscia/effe) ⭐ 229 | 🐛 1 | 🌐 Go | 📅 2016-05-05 - a simple Open Source building block to emulate AWS Lambda.
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
@@ -109,15 +109,15 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Frameworks
 
-* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,819 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
-* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,057 | 🐛 497 | 🌐 Python | 📅 2026-09-11 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,733 | 🐛 539 | 🌐 Python | 📅 2026-09-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,569 | 🐛 112 | 🌐 Python | 📅 2026-09-15
+* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,820 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
+* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,058 | 🐛 498 | 🌐 Python | 📅 2026-09-11 - Python serverless microframework from Amazon for AWS lambda.
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,734 | 🐛 540 | 🌐 Python | 📅 2026-09-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,570 | 🐛 113 | 🌐 Python | 📅 2026-09-15
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,882 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [Python-λ](https://github.com/nficano/python-lambda) ⚠️ Archived - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 * [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,469 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-13 - Lightweight web framework for your serverless applications.
-* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,066 | 🐛 12 | 🌐 Java | 📅 2026-09-15 - Java framework for doing Functions using Spring ecosystem.
+* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,067 | 🐛 12 | 🌐 Java | 📅 2026-09-15 - Java framework for doing Functions using Spring ecosystem.
 * [Kappa](https://github.com/garnaat/kappa) ⭐ 895 | 🐛 41 | 🌐 Python | 📅 2021-07-23 - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
 * [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 878 | 🐛 1 | 📅 2025-03-19).
 * [Lambdoku](https://github.com/kubek2k/lambdoku) ⭐ 567 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-29 - Heroku-like experience when using AWS Lambda.
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
