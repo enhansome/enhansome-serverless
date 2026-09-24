@@ -15,8 +15,8 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T04:12:43Z",
-            "open_issues": 550,
+            "last_commit": "2026-09-24T03:14:34Z",
+            "open_issues": 542,
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21408,
@@ -287,10 +287,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T17:54:09Z",
-            "open_issues": 498,
+            "open_issues": 499,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11057,
+            "stars": 11056,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T09:50:53Z",
-            "open_issues": 541,
+            "last_commit": "2026-09-24T00:13:31Z",
+            "open_issues": 539,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6734,
@@ -381,7 +381,7 @@
             "open_issues": 94,
             "owner": "iron-io",
             "repo": "functions",
-            "stars": 3215,
+            "stars": 3216,
             "topics": [
               "docker",
               "faas",
@@ -407,7 +407,7 @@
             "open_issues": 65,
             "owner": "jorgebastida",
             "repo": "gordon",
-            "stars": 2027,
+            "stars": 2026,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26244,
+            "stars": 26245,
             "topics": [
               "docker",
               "faas",
@@ -1732,8 +1732,8 @@
             "id": 268826962,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:51:39Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-24T07:22:59Z",
+            "open_issues": 11,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
             "stars": 1042,
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:09:00.548Z",
+    "last_updated": "2026-09-24T08:00:14.317Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
