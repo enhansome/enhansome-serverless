@@ -15,8 +15,8 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T23:07:22Z",
-            "open_issues": 551,
+            "last_commit": "2026-09-29T03:17:57Z",
+            "open_issues": 558,
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21404,
@@ -287,10 +287,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T17:54:09Z",
-            "open_issues": 500,
+            "open_issues": 501,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11054,
+            "stars": 11053,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:01:41Z",
-            "open_issues": 539,
+            "last_commit": "2026-09-29T09:01:47Z",
+            "open_issues": 541,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6733,
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26251,
+            "stars": 26252,
             "topics": [
               "docker",
               "faas",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T09:11:53.456Z",
+    "last_updated": "2026-09-29T09:20:17.959Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
