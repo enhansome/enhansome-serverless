@@ -15,8 +15,8 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:05:32Z",
-            "open_issues": 558,
+            "last_commit": "2026-10-03T08:07:35Z",
+            "open_issues": 559,
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21406,
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:53.805Z",
+    "last_updated": "2026-10-03T08:45:23.472Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
