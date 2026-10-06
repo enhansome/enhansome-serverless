@@ -15,11 +15,11 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T09:33:41Z",
+            "last_commit": "2026-10-05T17:05:08Z",
             "open_issues": 561,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21404,
+            "stars": 21402,
             "topics": [
               "baas",
               "backend",
@@ -92,7 +92,7 @@
             "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 407,
+            "stars": 406,
             "topics": [
               "automation",
               "aws",
@@ -167,7 +167,7 @@
             "open_issues": 9,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5172,
+            "stars": 5174,
             "topics": [
               "5g",
               "ai",
@@ -257,7 +257,7 @@
             "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11817,
+            "stars": 11816,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -290,7 +290,7 @@
             "open_issues": 502,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11054,
+            "stars": 11055,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T09:01:44Z",
-            "open_issues": 544,
+            "last_commit": "2026-10-06T09:01:29Z",
+            "open_issues": 545,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6736,
@@ -428,7 +428,7 @@
             "open_issues": 67,
             "owner": "nficano",
             "repo": "python-lambda",
-            "stars": 1514,
+            "stars": 1512,
             "topics": [
               "aws",
               "aws-lambda",
@@ -480,8 +480,8 @@
             "id": 68877113,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T23:00:20Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-05T17:25:20Z",
+            "open_issues": 10,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066,
@@ -1000,7 +1000,7 @@
             "open_issues": 5,
             "owner": "puresec",
             "repo": "awesome-serverless-security",
-            "stars": 637,
+            "stars": 636,
             "topics": [
               "awesome",
               "aws-lambda",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26247,
+            "stars": 26249,
             "topics": [
               "docker",
               "faas",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:51:33.332Z",
+    "last_updated": "2026-10-06T09:39:19.751Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
@@ -2045,7 +2045,7 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-02-11T16:45:39Z",
-      "open_issues": 43,
+      "open_issues": 44,
       "owner": "anaibol",
       "repo": "awesome-serverless",
       "stars": 7587,
