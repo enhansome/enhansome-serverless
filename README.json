@@ -318,7 +318,7 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:01:29Z",
+            "last_commit": "2026-10-06T09:42:54Z",
             "open_issues": 545,
             "owner": "aws",
             "repo": "aws-sam-cli",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:39:19.751Z",
+    "last_updated": "2026-10-06T10:40:31.408Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
