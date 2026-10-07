@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T17:05:08Z",
-            "open_issues": 561,
+            "open_issues": 563,
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21402,
@@ -92,7 +92,7 @@
             "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "automation",
               "aws",
@@ -167,7 +167,7 @@
             "open_issues": 9,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5174,
+            "stars": 5175,
             "topics": [
               "5g",
               "ai",
@@ -257,7 +257,7 @@
             "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11816,
+            "stars": 11815,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -287,10 +287,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T14:34:09Z",
-            "open_issues": 502,
+            "open_issues": 500,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11055,
+            "stars": 11054,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:42:54Z",
-            "open_issues": 545,
+            "last_commit": "2026-10-07T09:01:37Z",
+            "open_issues": 543,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6736,
@@ -407,7 +407,7 @@
             "open_issues": 65,
             "owner": "jorgebastida",
             "repo": "gordon",
-            "stars": 2025,
+            "stars": 2026,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -451,7 +451,7 @@
             "id": 106726943,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:25:01Z",
+            "last_commit": "2026-10-07T05:16:21Z",
             "open_issues": 45,
             "owner": "jeremydaly",
             "repo": "lambda-api",
@@ -480,8 +480,8 @@
             "id": 68877113,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T17:25:20Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-06T18:07:21Z",
+            "open_issues": 5,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1066,
@@ -1553,7 +1553,7 @@
             "open_issues": 4,
             "owner": "securitybunker",
             "repo": "databunker",
-            "stars": 1487,
+            "stars": 1489,
             "topics": [
               "anonymization",
               "application-server",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26249,
+            "stars": 26250,
             "topics": [
               "docker",
               "faas",
@@ -1700,7 +1700,7 @@
             "open_issues": 24,
             "owner": "senthilrch",
             "repo": "kube-fledged",
-            "stars": 1376,
+            "stars": 1377,
             "topics": [
               "add-on",
               "cache",
@@ -1736,7 +1736,7 @@
             "open_issues": 9,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
-            "stars": 1040,
+            "stars": 1041,
             "topics": [
               "aws",
               "aws-lambda",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:31.408Z",
+    "last_updated": "2026-10-07T09:35:54.132Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
