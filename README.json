@@ -15,11 +15,11 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T09:37:51Z",
-            "open_issues": 568,
+            "last_commit": "2026-10-10T02:05:37Z",
+            "open_issues": 569,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21402,
+            "stars": 21401,
             "topics": [
               "baas",
               "backend",
@@ -290,7 +290,7 @@
             "open_issues": 500,
             "owner": "aws",
             "repo": "chalice",
-            "stars": 11056,
+            "stars": 11057,
             "topics": [
               "aws",
               "aws-apigateway",
@@ -318,11 +318,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T09:01:36Z",
-            "open_issues": 542,
+            "last_commit": "2026-10-09T22:52:46Z",
+            "open_issues": 537,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6735,
+            "stars": 6736,
             "topics": [
               "api-gateway",
               "aws",
@@ -480,8 +480,8 @@
             "id": 68877113,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T10:36:34Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-09T13:33:13Z",
+            "open_issues": 3,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1067,
@@ -574,7 +574,7 @@
             "open_issues": 29,
             "owner": "MitocGroup",
             "repo": "deep-framework",
-            "stars": 535,
+            "stars": 532,
             "topics": [
               "aws",
               "cloud-native",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26245,
+            "stars": 26242,
             "topics": [
               "docker",
               "faas",
@@ -1700,7 +1700,7 @@
             "open_issues": 24,
             "owner": "senthilrch",
             "repo": "kube-fledged",
-            "stars": 1378,
+            "stars": 1377,
             "topics": [
               "add-on",
               "cache",
@@ -1736,7 +1736,7 @@
             "open_issues": 5,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "aws",
               "aws-lambda",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:51:12.199Z",
+    "last_updated": "2026-10-10T09:15:30.364Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
@@ -2045,10 +2045,10 @@
       "language": null,
       "license": "GPL-3.0",
       "last_commit": "2026-02-11T16:45:39Z",
-      "open_issues": 46,
+      "open_issues": 47,
       "owner": "anaibol",
       "repo": "awesome-serverless",
-      "stars": 7588,
+      "stars": 7589,
       "topics": [
         "cloud",
         "cloud-computing",
