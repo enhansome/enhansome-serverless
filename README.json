@@ -15,8 +15,8 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:12:04Z",
-            "open_issues": 571,
+            "last_commit": "2026-10-16T01:30:59Z",
+            "open_issues": 572,
             "owner": "parse-community",
             "repo": "parse-server",
             "stars": 21398,
@@ -59,7 +59,7 @@
             "open_issues": 170,
             "owner": "klothoplatform",
             "repo": "klotho",
-            "stars": 1144,
+            "stars": 1143,
             "topics": [
               "architecture",
               "aws",
@@ -257,7 +257,7 @@
             "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11814,
+            "stars": 11813,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -286,8 +286,8 @@
             "id": 59868262,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T01:52:59Z",
-            "open_issues": 498,
+            "last_commit": "2026-10-15T16:54:13Z",
+            "open_issues": 497,
             "owner": "aws",
             "repo": "chalice",
             "stars": 11056,
@@ -318,11 +318,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T23:51:06Z",
-            "open_issues": 549,
+            "last_commit": "2026-10-15T22:49:11Z",
+            "open_issues": 550,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6739,
+            "stars": 6738,
             "topics": [
               "api-gateway",
               "aws",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26248,
+            "stars": 26250,
             "topics": [
               "docker",
               "faas",
@@ -1658,7 +1658,7 @@
             "open_issues": 128,
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2490,
+            "stars": 2489,
             "topics": [
               "aws-lambda",
               "edge",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:52:44.146Z",
+    "last_updated": "2026-10-16T07:44:54.389Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
