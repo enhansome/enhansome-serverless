@@ -50,7 +50,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,399 | 🐛 573 | 🌐 JavaScript | 📅 2026-10-16.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,397 | 🐛 571 | 🌐 JavaScript | 📅 2026-10-18.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,143 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Substation](https://github.com/brexhq/substation) ⭐ 408 | 🐛 3 | 🌐 Go | 📅 2026-10-16 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
@@ -109,9 +109,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Frameworks
 
-* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,813 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
+* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,814 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [Chalice](https://github.com/awslabs/chalice) ⭐ 11,056 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 549 | 🌐 Python | 📅 2026-10-16 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 121 | 🌐 Python | 📅 2026-10-14
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 549 | 🌐 Python | 📅 2026-10-17 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 121 | 🌐 Python | 📅 2026-10-14
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,884 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
@@ -331,7 +331,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Others
 
-* [faas](https://github.com/alexellis/faas) ⭐ 26,251 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [faas](https://github.com/alexellis/faas) ⭐ 26,253 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [Docker Lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) ⭐ 2,489 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,378 | 🐛 24 | 🌐 Go | 📅 2026-09-17 - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
