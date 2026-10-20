@@ -50,10 +50,10 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,398 | 🐛 571 | 🌐 JavaScript | 📅 2026-10-19.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,401 | 🐛 574 | 🌐 JavaScript | 📅 2026-10-20.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,143 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
-* [Substation](https://github.com/brexhq/substation) ⭐ 408 | 🐛 3 | 🌐 Go | 📅 2026-10-16 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
-* [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
+* [Substation](https://github.com/brexhq/substation) ⭐ 407 | 🐛 3 | 🌐 Go | 📅 2026-10-16 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+* [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-19 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
@@ -110,18 +110,18 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Frameworks
 
 * [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,814 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
-* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,056 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 549 | 🌐 Python | 📅 2026-10-19 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,577 | 🐛 121 | 🌐 Python | 📅 2026-10-14
+* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,057 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python serverless microframework from Amazon for AWS lambda.
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 550 | 🌐 Python | 📅 2026-10-19 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 121 | 🌐 Python | 📅 2026-10-19
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,884 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [Python-λ](https://github.com/nficano/python-lambda) ⚠️ Archived - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 * [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,471 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-13 - Lightweight web framework for your serverless applications.
-* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,068 | 🐛 3 | 🌐 Java | 📅 2026-10-16 - Java framework for doing Functions using Spring ecosystem.
+* [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,068 | 🐛 5 | 🌐 Java | 📅 2026-10-19 - Java framework for doing Functions using Spring ecosystem.
 * [Kappa](https://github.com/garnaat/kappa) ⭐ 894 | 🐛 41 | 🌐 Python | 📅 2021-07-23 - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
 * [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 878 | 🐛 1 | 📅 2025-03-19).
 * [Lambdoku](https://github.com/kubek2k/lambdoku) ⭐ 565 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-29 - Heroku-like experience when using AWS Lambda.
-* [DEEP](https://github.com/MitocGroup/deep-framework) ⭐ 532 | 🐛 29 | 🌐 HTML | 📅 2026-01-21 - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
+* [DEEP](https://github.com/MitocGroup/deep-framework) ⭐ 533 | 🐛 29 | 🌐 HTML | 📅 2026-01-21 - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [Fission Workflows](https://github.com/fission/fission-workflows) ⭐ 379 | 🐛 62 | 🌐 Go | 📅 2023-03-30 - Fast workflow-based function composition for serverless functions.
 * [Shep](https://github.com/bustlelabs/shep) ⭐ 371 | 🐛 40 | 🌐 JavaScript | 📅 2018-08-21 - A framework for building APIs using AWS API Gateway and Lambda.
 * [Aegis](https://github.com/tmaiaroto/aegis) ⭐ 285 | 🐛 8 | 🌐 Go | 📅 2019-07-28 - A Golang serverless application development framework for AWS with deploy tool.
@@ -190,7 +190,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Observability Tools (Logging / Monitoring / Performance / Tracing)
 
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) ⭐ 871 | 🐛 62 | 🌐 JavaScript | 📅 2023-04-25 - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
-* [SLIC Watch](https://github.com/fourTheorem/slic-watch) ⭐ 160 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-05 - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
+* [SLIC Watch](https://github.com/fourTheorem/slic-watch) ⭐ 160 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-20 - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) ⚠️ Archived - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
@@ -314,7 +314,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Databases
 
-* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,492 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
+* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) ⭐ 1,493 | 🐛 4 | 🌐 Go | 📅 2026-07-28 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - Flexible NoSQL database service
 * [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/) - Serverless MySQL Database service
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
