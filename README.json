@@ -15,11 +15,11 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T00:22:21Z",
-            "open_issues": 574,
+            "last_commit": "2026-10-20T18:13:29Z",
+            "open_issues": 579,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21401,
+            "stars": 21404,
             "topics": [
               "baas",
               "backend",
@@ -92,7 +92,7 @@
             "open_issues": 3,
             "owner": "brexhq",
             "repo": "substation",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "automation",
               "aws",
@@ -116,7 +116,7 @@
             "id": 1005218859,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T21:44:55Z",
+            "last_commit": "2026-10-20T17:00:00Z",
             "open_issues": 2,
             "owner": "vuics",
             "repo": "h9y",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T21:19:38Z",
-            "open_issues": 550,
+            "last_commit": "2026-10-21T08:08:14Z",
+            "open_issues": 553,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6738,
@@ -451,7 +451,7 @@
             "id": 106726943,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:06:47Z",
+            "last_commit": "2026-10-21T02:11:24Z",
             "open_issues": 47,
             "owner": "jeremydaly",
             "repo": "lambda-api",
@@ -1601,7 +1601,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26252,
+            "stars": 26251,
             "topics": [
               "docker",
               "faas",
@@ -1658,7 +1658,7 @@
             "open_issues": 128,
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2489,
+            "stars": 2488,
             "topics": [
               "aws-lambda",
               "edge",
@@ -1736,7 +1736,7 @@
             "open_issues": 5,
             "owner": "terraform-aws-modules",
             "repo": "terraform-aws-lambda",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "aws",
               "aws-lambda",
@@ -2036,7 +2036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:04:18.421Z",
+    "last_updated": "2026-10-21T08:09:21.280Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
