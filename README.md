@@ -50,7 +50,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,404 | 🐛 579 | 🌐 JavaScript | 📅 2026-10-20.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,402 | 🐛 578 | 🌐 JavaScript | 📅 2026-10-21.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,143 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Substation](https://github.com/brexhq/substation) ⭐ 408 | 🐛 3 | 🌐 Go | 📅 2026-10-16 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-20 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
@@ -72,7 +72,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Hosting and code execution in the cloud
 
-* [Tau](https://github.com/taubyte/tau) ⭐ 5,184 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
+* [Tau](https://github.com/taubyte/tau) ⭐ 5,183 | 🐛 9 | 🌐 Go | 📅 2026-08-16 - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) ⚠️ Archived - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Effe](https://github.com/siscia/effe) ⭐ 229 | 🐛 1 | 🌐 Go | 📅 2016-05-05 - a simple Open Source building block to emulate AWS Lambda.
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
@@ -110,9 +110,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Frameworks
 
 * [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,814 | 🐛 686 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
-* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,057 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 553 | 🌐 Python | 📅 2026-10-21 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 123 | 🌐 Python | 📅 2026-10-20
-* [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,884 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
+* [Chalice](https://github.com/awslabs/chalice) ⭐ 11,058 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python serverless microframework from Amazon for AWS lambda.
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,738 | 🐛 554 | 🌐 Python | 📅 2026-10-22 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,576 | 🐛 122 | 🌐 Python | 📅 2026-10-21
+* [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,883 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,027 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [Python-λ](https://github.com/nficano/python-lambda) ⚠️ Archived - A toolkit for developing and deploying serverless Python code in AWS Lambda.
@@ -123,7 +123,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Lambdoku](https://github.com/kubek2k/lambdoku) ⭐ 565 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-29 - Heroku-like experience when using AWS Lambda.
 * [DEEP](https://github.com/MitocGroup/deep-framework) ⭐ 533 | 🐛 29 | 🌐 HTML | 📅 2026-01-21 - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [Fission Workflows](https://github.com/fission/fission-workflows) ⭐ 379 | 🐛 62 | 🌐 Go | 📅 2023-03-30 - Fast workflow-based function composition for serverless functions.
-* [Shep](https://github.com/bustlelabs/shep) ⭐ 371 | 🐛 40 | 🌐 JavaScript | 📅 2018-08-21 - A framework for building APIs using AWS API Gateway and Lambda.
+* [Shep](https://github.com/bustlelabs/shep) ⭐ 370 | 🐛 40 | 🌐 JavaScript | 📅 2018-08-21 - A framework for building APIs using AWS API Gateway and Lambda.
 * [Aegis](https://github.com/tmaiaroto/aegis) ⭐ 285 | 🐛 8 | 🌐 Go | 📅 2019-07-28 - A Golang serverless application development framework for AWS with deploy tool.
 * [Lambada Framework](https://github.com/lambadaframework/lambadaframework) ⭐ 241 | 🐛 30 | 🌐 Java | 📅 2019-03-29 - JAX-RS implementation for AWS Lambda.
 * [Browser Functions](https://github.com/IBM/browser-functions) ⚠️ Archived - A lightweight serverless platform that uses Web Browsers as execution engines.
@@ -190,7 +190,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Observability Tools (Logging / Monitoring / Performance / Tracing)
 
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) ⭐ 871 | 🐛 62 | 🌐 JavaScript | 📅 2023-04-25 - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
-* [SLIC Watch](https://github.com/fourTheorem/slic-watch) ⭐ 160 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-20 - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
+* [SLIC Watch](https://github.com/fourTheorem/slic-watch) ⭐ 160 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-21 - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) ⚠️ Archived - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2024-08-31 - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
