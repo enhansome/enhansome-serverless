@@ -163,11 +163,11 @@
             "id": 666084768,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-11T06:56:04Z",
+            "last_commit": "2026-11-12T02:35:28Z",
             "open_issues": 11,
             "owner": "taubyte",
             "repo": "tau",
-            "stars": 5168,
+            "stars": 5171,
             "topics": [
               "5g",
               "ai",
@@ -257,7 +257,7 @@
             "open_issues": 686,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11812,
+            "stars": 11811,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -286,7 +286,7 @@
             "id": 59868262,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T15:54:10Z",
+            "last_commit": "2026-11-11T15:41:19Z",
             "open_issues": 498,
             "owner": "aws",
             "repo": "chalice",
@@ -318,11 +318,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T09:50:53Z",
-            "open_issues": 566,
+            "last_commit": "2026-11-12T09:56:15Z",
+            "open_issues": 565,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6743,
+            "stars": 6744,
             "topics": [
               "api-gateway",
               "aws",
@@ -381,7 +381,7 @@
             "open_issues": 94,
             "owner": "iron-io",
             "repo": "functions",
-            "stars": 3211,
+            "stars": 3210,
             "topics": [
               "docker",
               "faas",
@@ -2015,7 +2015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:06:35.131Z",
+    "last_updated": "2026-11-12T10:30:17.262Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
