@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-22T13:59:19Z",
-            "open_issues": 608,
+            "open_issues": 612,
             "owner": "parse-community",
             "repo": "parse-server",
-            "stars": 21399,
+            "stars": 21398,
             "topics": [
               "baas",
               "backend",
@@ -257,7 +257,7 @@
             "open_issues": 685,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11812,
+            "stars": 11811,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -318,7 +318,7 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T09:39:23Z",
+            "last_commit": "2026-11-24T09:47:51Z",
             "open_issues": 541,
             "owner": "aws",
             "repo": "aws-sam-cli",
@@ -480,8 +480,8 @@
             "id": 68877113,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T14:03:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-24T12:53:42Z",
+            "open_issues": 14,
             "owner": "spring-cloud",
             "repo": "spring-cloud-function",
             "stars": 1072,
@@ -1036,7 +1036,7 @@
             "open_issues": 41,
             "owner": "lambci",
             "repo": "lambci",
-            "stars": 3958,
+            "stars": 3957,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -1528,7 +1528,7 @@
             "id": 226737538,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T15:03:49Z",
+            "last_commit": "2026-11-24T09:26:08Z",
             "open_issues": 4,
             "owner": "securitybunker",
             "repo": "databunker",
@@ -1580,7 +1580,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26267,
+            "stars": 26268,
             "topics": [
               "docker",
               "faas",
@@ -1616,7 +1616,7 @@
             "open_issues": 68,
             "owner": "lambci",
             "repo": "docker-lambda",
-            "stars": 5772,
+            "stars": 5771,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -2015,7 +2015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:34:47.883Z",
+    "last_updated": "2026-11-24T13:08:13.345Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",
