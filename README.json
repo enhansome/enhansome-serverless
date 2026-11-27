@@ -15,7 +15,7 @@
             "id": 50603846,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T13:59:19Z",
+            "last_commit": "2026-11-26T23:55:09Z",
             "open_issues": 614,
             "owner": "parse-community",
             "repo": "parse-server",
@@ -257,7 +257,7 @@
             "open_issues": 685,
             "owner": "Miserlou",
             "repo": "Zappa",
-            "stars": 11809,
+            "stars": 11810,
             "topics": [
               "api-gateway",
               "aws-lambda",
@@ -318,8 +318,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T09:39:51Z",
-            "open_issues": 541,
+            "last_commit": "2026-11-27T09:41:53Z",
+            "open_issues": 544,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6744,
@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "antonbabenko",
             "repo": "serverless.tf",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "aws-serverless",
               "infrastructure-as-code",
@@ -1009,7 +1009,7 @@
             "open_issues": 1,
             "owner": "puresec",
             "repo": "sas-top-10",
-            "stars": 338,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T14:45:42.756Z"
@@ -1580,7 +1580,7 @@
             "open_issues": 31,
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26270,
+            "stars": 26272,
             "topics": [
               "docker",
               "faas",
@@ -2015,7 +2015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:44:30.715Z",
+    "last_updated": "2026-11-27T11:38:11.156Z",
     "original_repository_info": {
       "archived": false,
       "description": ":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",

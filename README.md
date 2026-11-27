@@ -50,7 +50,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,401 | 🐛 614 | 🌐 JavaScript | 📅 2026-11-22.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server) ⭐ 21,401 | 🐛 614 | 🌐 JavaScript | 📅 2026-11-26.
 * [Klotho](https://github.com/KlothoPlatform/klotho) ⭐ 1,144 | 🐛 170 | 🌐 Go | 📅 2026-01-21 - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Substation](https://github.com/brexhq/substation) ⭐ 410 | 🐛 8 | 🌐 Go | 📅 2026-11-09 - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [HyperAgency](https://github.com/vuics/h9y) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25 - Serverless agentic AI operating system (h9y.ai). Open-source, self-hosted/cloud, omni-channel, decentralized, extensible.
@@ -109,9 +109,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Frameworks
 
-* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,809 | 🐛 685 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
+* [Zappa](https://github.com/Miserlou/Zappa) ⭐ 11,810 | 🐛 685 | 🌐 Python | 📅 2023-03-23 - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [Chalice](https://github.com/awslabs/chalice) ⭐ 11,062 | 🐛 500 | 🌐 Python | 📅 2026-11-11 - Python serverless microframework from Amazon for AWS lambda.
-* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,744 | 🐛 541 | 🌐 Python | 📅 2026-11-26 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,589 | 🐛 110 | 🌐 Python | 📅 2026-11-24
+* [SAM Local](https://github.com/awslabs/aws-sam-local) ⭐ 6,744 | 🐛 544 | 🌐 Python | 📅 2026-11-27 - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model) ⭐ 9,590 | 🐛 111 | 🌐 Python | 📅 2026-11-24
 * [ClaudiaJS](https://github.com/claudiajs/claudia) ⭐ 3,882 | 🐛 27 | 🌐 JavaScript | 📅 2026-05-03 - Deploy Node.js microservices to AWS easily.
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,210 | 🐛 94 | 🌐 Go | 📅 2023-09-15 - The Serverless Microservices platform.
 * [Gordon](https://github.com/jorgebastida/gordon) ⭐ 2,025 | 🐛 65 | 🌐 Python | 📅 2019-04-11 - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
@@ -119,7 +119,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Lambda API](https://github.com/jeremydaly/lambda-api) ⭐ 1,468 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-13 - Lightweight web framework for your serverless applications.
 * [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) ⭐ 1,072 | 🐛 10 | 🌐 Java | 📅 2026-11-25 - Java framework for doing Functions using Spring ecosystem.
 * [Kappa](https://github.com/garnaat/kappa) ⭐ 890 | 🐛 41 | 🌐 Python | 📅 2021-07-23 - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
-* [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 874 | 🐛 1 | 📅 2025-03-19).
+* [serverless.tf](https://serverless.tf) - A framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform ([read more](https://github.com/antonbabenko/serverless.tf) ⭐ 875 | 🐛 1 | 📅 2025-03-19).
 * [Lambdoku](https://github.com/kubek2k/lambdoku) ⭐ 565 | 🐛 7 | 🌐 JavaScript | 📅 2019-09-29 - Heroku-like experience when using AWS Lambda.
 * [DEEP](https://github.com/MitocGroup/deep-framework) ⭐ 532 | 🐛 29 | 🌐 HTML | 📅 2026-01-21 - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [Fission Workflows](https://github.com/fission/fission-workflows) ⭐ 378 | 🐛 62 | 🌐 Go | 📅 2023-03-30 - Fast workflow-based function composition for serverless functions.
@@ -164,7 +164,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Security
 
 * [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) ⭐ 639 | 🐛 6 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
-* [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) ⭐ 338 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Risks for Serverless Applications.
+* [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) ⭐ 337 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Risks for Serverless Applications.
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
 * [AWS Lambda Security Best-Practices eBook](https://www.puresec.io/aws-lambda-security-best-practices) - An AWS Lambda security best-practices eBook
 * [AWS Lambda Security Quick-Start Guide](https://www.puresec.io/blog/aws-lambda-security-quick-guide) - A Quick-Start guide for AWS Lambda Security
@@ -331,7 +331,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Others
 
-* [faas](https://github.com/alexellis/faas) ⭐ 26,270 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [faas](https://github.com/alexellis/faas) ⭐ 26,272 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [Docker Lambda](https://github.com/lambci/docker-lambda) ⚠️ Archived - Docker images and test runners that replicate the live AWS Lambda environment
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) ⭐ 2,485 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) ⭐ 1,387 | 🐛 25 | 🌐 Go | 📅 2026-11-14 - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
@@ -373,7 +373,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
 * [Migrating a Native JAVA REST API to a Serverless Architecture with the Lambada Framework for AWS](https://aws.amazon.com/blogs/compute/migrating-a-native-java-rest-api-to-a-serverless-architecture-with-the-lambada-framework-for-aws/)
 * [Using Kotlin with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a serverless architecture with AWS Lambda.
-* [Serverless Architectures Security Top 10](https://github.com/puresec/sas-top-10) ⭐ 338 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Security Risks in Serverless Architectures.
+* [Serverless Architectures Security Top 10](https://github.com/puresec/sas-top-10) ⭐ 337 | 🐛 1 | 📅 2019-10-24 - The Ten Most Critical Security Risks in Serverless Architectures.
 * [Continuous Delivery Patterns with Serverless Applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - patterns for effective Continuous Delivery when building Serverless applications.
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [Serverless White Paper](https://www.unusual.vc/post/unusual-tech-serverless-white-paper) - Informative White Paper on Serverless with deep analysis by Unusual VC.
@@ -485,4 +485,4 @@ You want to contribute to this project? [Please follow these recommendations](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
